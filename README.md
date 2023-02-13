@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...web dev
 - 💞️ I’m looking to collaborate on ...all pro creators
 - 📫 How to reach me ...get to my email
+- @mintroversial@gmail.com
 
 <!---
 sharplamar/sharplamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
